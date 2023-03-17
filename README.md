@@ -1,4 +1,4 @@
-## How to build, sign, and distribute your Android App using Azure Pipelines? testing 
+## How to build, sign, and distribute your Android App using Azure Pipelines?
 
 As a mobile developer, I know the pain of building the APKs regularly and sharing the latest version with different teams. Additionally, we need to upload the newest version to the Microsoft AppCenter and Google PlayStore. A minor mistake in the routine may lead to some serious trouble. For any unforeseen issue, the best solution is to automate the process. 
 
